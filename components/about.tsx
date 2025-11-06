@@ -28,7 +28,7 @@ export default function About() {
               <p className="text-sm text-muted-foreground mb-1">
                 <strong>B.Tech in Computer Science (AI & ML)</strong>
               </p>
-              <p className="text-sm text-muted-foreground mb-3">GITAM, Hyderabad | CGPA: 7.48</p>
+              <p className="text-sm text-muted-foreground mb-3">GITAM, Hyderabad | CGPA: 7.42</p>
               <p className="text-xs text-muted-foreground">July 2022 - June 2026</p>
             </div>
 
