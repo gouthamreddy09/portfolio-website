@@ -1,4 +1,4 @@
-# Portfolio website from resume
+# Portfolio website 
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
