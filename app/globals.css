@@ -8,9 +8,10 @@
   --background: oklch(0.05 0 0);
   --background-secondary: oklch(0.1 0.08 290);
   --foreground: oklch(0.95 0 0);
-  --card: oklch(0.11 0.05 290);
+  /* Brightened card backgrounds from very dark to attractive purple */
+  --card: oklch(0.16 0.08 290);
   --card-foreground: oklch(0.95 0 0);
-  --popover: oklch(0.11 0.05 290);
+  --popover: oklch(0.16 0.08 290);
   --popover-foreground: oklch(0.95 0 0);
   --primary: oklch(0.65 0.28 290);
   --primary-foreground: oklch(0.95 0 0);
@@ -31,7 +32,7 @@
   --chart-4: oklch(0.68 0.24 280);
   --chart-5: oklch(0.6 0.27 320);
   --radius: 0.625rem;
-  --sidebar: oklch(0.11 0.05 290);
+  --sidebar: oklch(0.16 0.08 290);
   --sidebar-foreground: oklch(0.95 0 0);
   --sidebar-primary: oklch(0.65 0.28 290);
   --sidebar-primary-foreground: oklch(0.95 0 0);
@@ -45,9 +46,10 @@
   --background: oklch(0.05 0 0);
   --background-secondary: oklch(0.1 0.08 290);
   --foreground: oklch(0.95 0 0);
-  --card: oklch(0.11 0.05 290);
+  /* Brightened card backgrounds from very dark to attractive purple */
+  --card: oklch(0.16 0.08 290);
   --card-foreground: oklch(0.95 0 0);
-  --popover: oklch(0.11 0.05 290);
+  --popover: oklch(0.16 0.08 290);
   --popover-foreground: oklch(0.95 0 0);
   --primary: oklch(0.65 0.28 290);
   --primary-foreground: oklch(0.95 0 0);
@@ -67,7 +69,7 @@
   --chart-3: oklch(0.62 0.26 300);
   --chart-4: oklch(0.68 0.24 280);
   --chart-5: oklch(0.6 0.27 320);
-  --sidebar: oklch(0.11 0.05 290);
+  --sidebar: oklch(0.16 0.08 290);
   --sidebar-foreground: oklch(0.95 0 0);
   --sidebar-primary: oklch(0.65 0.28 290);
   --sidebar-primary-foreground: oklch(0.95 0 0);
