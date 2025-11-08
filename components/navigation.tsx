@@ -24,7 +24,7 @@ export default function Navigation({ scrolled }: NavigationProps) {
     >
       <div className="max-w-6xl mx-auto px-6 py-6 flex items-center justify-between">
         <a href="#" className="text-xl font-bold text-primary">
-          GR
+          GOUTHAM REDDY
         </a>
 
         <div className="hidden md:flex gap-8">
