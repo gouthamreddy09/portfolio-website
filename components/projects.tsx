@@ -45,7 +45,7 @@ export default function Projects() {
       longDescription:
         "Built comprehensive analytics dashboards featuring executive KPIs, admission trends, department metrics, patient flow visualization, AI-powered bottleneck detection, what-if simulation, and optimization insights with multi-workspace support and role-based access control.",
       tech: ["React", "TypeScript", "Supabase", "PostgreSQL", "Tailwind CSS", "Vite"],
-      link: "#",
+      link: "https://flowcure.netlify.app", // Updated FlowCure link to production URL
       github: "https://github.com/gouthamreddy09/CareFlow",
       image: "/projects/flowcure-cover.jpg",
       color: "from-emerald-600 to-teal-600",
