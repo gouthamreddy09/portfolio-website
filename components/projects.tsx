@@ -38,6 +38,18 @@ export default function Projects() {
       image: "/projects/stable-diffusion-cover.jpg",
       color: "from-green-600 to-cyan-600",
     },
+    {
+      title: "FlowCure - Healthcare Analytics Platform",
+      description:
+        "Healthcare Analytics Platform for Hospital Operations Optimization with real-time dashboards, patient flow analysis, and bottleneck detection.",
+      longDescription:
+        "Built comprehensive analytics dashboards featuring executive KPIs, admission trends, department metrics, patient flow visualization, AI-powered bottleneck detection, what-if simulation, and optimization insights with multi-workspace support and role-based access control.",
+      tech: ["React", "TypeScript", "Supabase", "PostgreSQL", "Tailwind CSS", "Vite"],
+      link: "#",
+      github: "https://github.com/gouthamreddy09/CareFlow",
+      image: "/projects/flowcure-cover.jpg",
+      color: "from-emerald-600 to-teal-600",
+    },
   ]
 
   return (
